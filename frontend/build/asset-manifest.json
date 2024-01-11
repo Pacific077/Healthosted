@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.808179ad.css",
-    "main.js": "/static/js/main.c587a5ce.js",
+    "main.js": "/static/js/main.97ee5bfe.js",
     "static/media/register.jpg": "/static/media/register.2e1ab4bb093d7162f638.jpg",
     "static/media/lindr.jpg": "/static/media/lindr.151dfbb9d3242561340a.jpg",
     "static/media/appointbg.jpg": "/static/media/appointbg.fe747195234d94a15348.jpg",
@@ -38,10 +38,10 @@
     "static/media/phone2.png": "/static/media/phone2.e1d81baf60e3a3b18342.png",
     "index.html": "/index.html",
     "main.808179ad.css.map": "/static/css/main.808179ad.css.map",
-    "main.c587a5ce.js.map": "/static/js/main.c587a5ce.js.map"
+    "main.97ee5bfe.js.map": "/static/js/main.97ee5bfe.js.map"
   },
   "entrypoints": [
     "static/css/main.808179ad.css",
-    "static/js/main.c587a5ce.js"
+    "static/js/main.97ee5bfe.js"
   ]
 }
