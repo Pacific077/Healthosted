@@ -20,6 +20,7 @@ app.use(express.json());
 app.use(cookieParser());
 const corsOptions = {
   origin: ["http://localhost:3000", "https://healthapp-s7sg.onrender.com"],
+  headers: ["Content-Type"],
   credentials: true,
 };
 app.use(cors(corsOptions));
